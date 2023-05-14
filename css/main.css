@@ -1,0 +1,31 @@
+
+*{
+font-family: Arial, Helvetica, sans-serif;
+background-color: #E2D1F9;}
+
+.wrapper{
+  margin:60px
+}
+
+h1{
+background-color: #317773;
+color:white;
+padding: 10px;
+}
+
+p{
+  font-size: 1em;
+}
+
+
+.photo{
+  width: 150px;
+  float: left;
+  padding-right: 2%;
+}
+
+.list{
+  padding-top: 2%;
+  background-color: #317773;
+}
+
